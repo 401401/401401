@@ -1,6 +1,6 @@
  Ali Beiranvand 
 
- 🎓 Ph.D. Candidate in Electronics Engineering | Lorestan University
+ 🎓 Ph.D. Student in Electronics Engineering  Lorestan University
     Speech Signal Processing & Deep Learning Researcher
 
 I am a Ph.D. student in Electronics Engineering at Lorestan University, with a dedicated research focus on Speech and Audio Signal Processing. My research bridges the gap between classical Digital Signal Processing (DSP) and contemporary Deep Learning paradigms. I specialize in developing robust algorithms for real-world speech applications, including Noise Cancellation, Emotion Recognition, and Speech Separation.
