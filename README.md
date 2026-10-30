@@ -9,8 +9,8 @@ I am a Ph.D. student in Electronics Engineering at Lorestan University, with a d
  *Research Interests & Expertise*
  
  Speech Enhancement & Noise Cancellation
-- Classical DSP Approaches:** Wiener Filtering, Spectral Subtraction, and Adaptive Line Enhancer (ALE).
-- Deep Learning Approaches:** PSO-optimized Convolutional Neural Networks (CNN) for robust noise suppression.
+- Classical DSP Approaches: Wiener Filtering, Spectral Subtraction, and Adaptive Line Enhancer (ALE).
+- Deep Learning Approaches: PSO-optimized Convolutional Neural Networks (CNN) for robust noise suppression.
 
  Speech Emotion Recognition (SER)
 - Development of a noise-robust SER framework utilizing a hybrid approach of Data Augmentation, Bidirectional Long Short-Term Memory (BiLSTM) networks, and Random Forest (RF) classifiers.
@@ -21,10 +21,10 @@ I am a Ph.D. student in Electronics Engineering at Lorestan University, with a d
 
 
  *Technical Stack*
-- Programming Languages:** MATLAB (Expert)
-- Deep Learning Architectures:** CNN, BiLSTM, Conv-TasNet, Attention Mechanisms
-- Optimization Algorithms:** Particle Swarm Optimization (PSO), Metaheuristic Algorithms
-- Signal Processing:** Wiener Filter, Spectral Subtraction, PLP, Pitch Extraction, Adaptive Filters
+- Programming Languages: MATLAB (Expert)
+- Deep Learning Architectures: CNN, BiLSTM, Conv-TasNet, Attention Mechanisms
+- Optimization Algorithms: Particle Swarm Optimization (PSO), Metaheuristic Algorithms
+- Signal Processing: Wiener Filter, Spectral Subtraction, PLP, Pitch Extraction, Adaptive Filters
 
 
 
