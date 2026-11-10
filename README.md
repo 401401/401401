@@ -48,6 +48,4 @@ I am a Ph.D. student in Electronics Engineering at Lorestan University, with a d
 ### 📫 Contact
 - **Email:** beyranvand.ali@fe.lu.ac.ir (Academic) | ali.beiranvand401@gmail.com
 - **Affiliation:** Lorestan University, Khorramabad, Iran
-- ### 📂 Project Files & Datasets
-- https://drive.google.com/file/d/1Tsh8vKrwUdgtx_UXIDImXMMWVoqbVBzB/view?usp=sharing
-- https://drive.google.com/file/d/1WLTR1YZpwlSVzqp2HwbWmGkas6nQt4G-/view?usp=sharing
+
